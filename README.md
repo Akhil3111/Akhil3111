@@ -1,5 +1,45 @@
-# 💫 About Me:
-## 🚀 About Me<br><br>🔭 I’m currently working on  <br>- Building LLM-based applications using RAG (Retrieval-Augmented Generation)  <br>- AI Financial Assistant for document analysis and intelligent querying  <br><br>👯 I’m looking to collaborate on  <br>- AI/ML projects (NLP, LLMs, RAG systems)  <br>- Open-source contributions in backend + AI  <br><br>🤝 I’m looking for help with  <br>- Scaling LLM applications  <br>- Model optimization and deployment  <br><br>🌱 I’m currently learning  <br>- Advanced LLM systems (RAG, Agents)  <br>- FastAPI and backend architecture  <br>- Vector databases (FAISS)  <br><br>💬 Ask me about  <br>- Python, NLP basics, LLM projects  <br>- Building end-to-end AI applications  <br><br>⚡ Fun fact  <br>- I enjoy turning real-world problems into automated AI solutions 🚀
+# Hi, I'm Akhil Pallapu 👋
+
+I'm a CS student from Hyderabad building toward a career in AI/ML Engineering.
+Currently executing a structured 30-day plan to go from Data Analytics → ML → 
+deployed AI systems — with real projects at every step.
+
+---
+
+## 🎯 What I'm Building Right Now
+
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| EDA Project | Real dataset → insights → business recommendations | Python, Pandas, Seaborn | 🔄 In progress |
+| ML Model | Classification + regression + model comparison | scikit-learn | 🔜 Coming Day 20 |
+| ML API | Live prediction endpoint | FastAPI, sklearn | 🔜 Coming Day 25 |
+| AI Chatbot | LLM-powered assistant | OpenAI API / LangChain | 🔜 Coming Day 28 |
+
+---
+
+## 🛠️ Skills (Honest Edition)
+
+**Comfortable with:** Python · Pandas · NumPy · Matplotlib · Seaborn · scikit-learn · Git  
+**Currently learning:** FastAPI · ML deployment · LLMs · RAG systems  
+**Familiar with:** MySQL · HTML/CSS · JavaScript basics
+
+---
+
+## 📚 Current Focus
+
+- 📊 Data Analytics + EDA  
+- 🤖 ML fundamentals (regression, classification, evaluation)  
+- ⚙️ FastAPI + deploying ML models  
+- 🧩 DSA — solving problems daily on LeetCode  
+
+---
+
+## 📈 Goal
+
+Crack an AI/ML internship in the next 3 months.  
+Target: startup → mid-level → top company over 9 months.
+
+---
 
 
 ## 🌐 Socials:

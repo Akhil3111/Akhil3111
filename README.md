@@ -6,15 +6,6 @@ deployed AI systems — with real projects at every step.
 
 ---
 
-## 🎯 What I'm Building Right Now
-
-| Project | What it does | Stack | Status |
-|---|---|---|---|
-| EDA Project | Real dataset → insights → business recommendations | Python, Pandas, Seaborn | 🔄 In progress |
-| ML Model | Classification + regression + model comparison | scikit-learn | 🔜 Coming Day 20 |
-| ML API | Live prediction endpoint | FastAPI, sklearn | 🔜 Coming Day 25 |
-| AI Chatbot | LLM-powered assistant | OpenAI API / LangChain | 🔜 Coming Day 28 |
-
 ---
 
 ## 🛠️ Skills (Honest Edition)
@@ -31,13 +22,6 @@ deployed AI systems — with real projects at every step.
 - 🤖 ML fundamentals (regression, classification, evaluation)  
 - ⚙️ FastAPI + deploying ML models  
 - 🧩 DSA — solving problems daily on LeetCode  
-
----
-
-## 📈 Goal
-
-Crack an AI/ML internship in the next 3 months.  
-Target: startup → mid-level → top company over 9 months.
 
 ---
 
